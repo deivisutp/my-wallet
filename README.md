@@ -12,7 +12,7 @@ O usuário pode controlar suas receitas e despesas e comparar de forma visual se
 
 Para ver o **App web**, clique aqui: [My-wallet Web](https://github.com/deivisutp/my-wallet) <br />
 
-Ainda não foi constrúido o backend, mas o faremos utilizando NodeJS, utilizando jwt e banco de dados não relacional Mongo DB 
+Ainda não foi constrúido o backend, mas o faremos utilizando NodeJS, jwt e banco de dados não relacional Mongo DB 
 para criar os serviços de autenticação e lançamentos de receitas e despesas.
 
 ### 🛠 Tecnologias
