@@ -1,3 +1,13 @@
+## Demo 📸
+
+<div align="center" >
+  <img src="./github/my-wallet.gif" alt="demo-web" height="425">
+</div>
+
+--
+
+#About the project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
