@@ -4,53 +4,33 @@
   <img src="./github/my-wallet.gif" alt="demo-web" height="425">
 </div>
 
---
+## Sobre o Projeto
 
-#Sobre o projeto
+Esta aplicação fornece ao usuário uma maneira simples e bem visual de contralar suas finanças.
 
-# Getting Started with Create React App
+O usuário pode controlar suas receitas e despesas e comparar de forma visual seu controle financeiro mensal.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para ver o **App web**, clique aqui: [My-wallet Web](https://github.com/deivisutp/my-wallet) <br />
 
-## Available Scripts
+Ainda não foi constrúido o backend, mas o faremos utilizando NodeJS, utilizando jwt e banco de dados não relacional Mongo DB 
+para criar os serviços de autenticação e lançamentos de receitas e despesas.
 
-In the project directory, you can run:
+### 🛠 Tecnologias
 
-### `yarn start`
+As seguintes ferramentas foram usadas na construção do projeto:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://pt-br.reactjs.org/)
+- [Node.js](https://nodejs.org/en/)
+- [Styled-components](https://styled-components.com/)
+- [React Router Dom](https://reactrouter.com/web/guides/quick-start)
+- [React Switch](https://www.npmjs.com/package/react-switch)
+- [React-navigation](https://reactnavigation.org/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+<a href="https://www.linkedin.com/in/deivis-utpadel-2b2b7948/">
+<img src="./github/linkedin.png" alt="linkedin" height="50"></a>
+<br />
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Linkedin: (https://www.linkedin.com/in/deivis-utpadel-2b2b7948/)
