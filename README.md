@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-Esta aplicação fornece ao usuário uma maneira simples e bem visual de contralar suas finanças.
+Esta aplicação fornece ao usuário uma maneira simples e bem visual de controlar suas finanças.
 
 O usuário pode controlar suas receitas e despesas e comparar de forma visual seu controle financeiro mensal.
 
