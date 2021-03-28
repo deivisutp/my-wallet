@@ -6,7 +6,7 @@
 
 --
 
-#About the project
+#Sobre o projeto
 
 # Getting Started with Create React App
 
