@@ -4,7 +4,7 @@
   <img src="./github/my-wallet.gif" alt="demo-web" height="425">
 </div>
 
-## Sobre o Projeto
+## Sobre o Projeto / About this project
 
 Esta aplicação fornece ao usuário uma maneira simples e bem visual de controlar suas finanças.
 
@@ -15,9 +15,18 @@ Para ver o **App web**, clique aqui: [My-wallet Web](https://github.com/deivisut
 Ainda não foi constrúido o backend, mas o faremos utilizando NodeJS, jwt e banco de dados não relacional Mongo DB 
 para criar os serviços de autenticação e lançamentos de receitas e despesas.
 
-### 🛠 Tecnologias
+---
 
-As seguintes ferramentas foram usadas na construção do projeto:
+This application provides the user with a simple and very visual way to control his finances.
+
+The user can control his income and expenses and visually compare his monthly financial control.
+
+To view the ** Web app **, click here: [My-wallet Web] (https://github.com/deivisutp/my-wallet) <br />
+
+The backend has not yet been built, but we will do it using NodeJS, jwt and non-relational Mongo DB database
+to create authentication services and income and expense entries.
+
+### 🛠 Tecnologias / Technologies
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://pt-br.reactjs.org/)
